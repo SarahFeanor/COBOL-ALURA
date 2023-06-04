@@ -1,12 +1,11 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. PROGCOB03.
-      ************************************
-      * AREA DE COMENTARIOS -REMARK
-      * AUTHOR = SARAH
-      * OBJETIVO: RECEBER E IMPRIMIR A DATA DO SISTEMA
-      * UTILIZAR AS VARIAVEIS COM NIVEIS 01...02 (ESTRUTURADAS)
-      * DATA = 14/03/2023
-      ************************************
+      *********************************************************
+      ** AUTHOR = SARAH
+      ** OBJETIVO: RECEBER E IMPRIMIR A DATA DO SISTEMA
+      ** UTILIZAR AS VARIAVEIS COM NIVEIS 01...02 (ESTRUTURADAS)
+      ** DATA = 14/03/2023
+      **********************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
