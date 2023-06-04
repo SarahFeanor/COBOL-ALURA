@@ -1,12 +1,11 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. PROGCOB04.
-      ************************************
-      * AREA DE COMENTARIOS -REMARK
-      * AUTHOR = SARAH
-      * OBJETIVO: RECEBER NOME E SAL¡RIO
-      * IMPRIMIR FORMATADO - USO DA VIRGULA
-      * DATA = 14/03/2023
-      ************************************
+      ***************************************
+      ** AUTHOR = SARAH F. REZENDE
+      ** OBJETIVO: RECEBER NOME E SAL√ÅRIO
+      ** IMPRIMIR FORMATADO - USO DA VIRGULA
+      ** DATA = 14/03/2023
+      ***************************************
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        SPECIAL-NAMES.
