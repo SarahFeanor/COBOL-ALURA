@@ -1,11 +1,10 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. PROGCOB02.
-      ************************************
-      * AREA DE COMENTARIOS -REMARK
-      * AUTHOR = SARAH
+      ******************************************
+      * AUTHOR = SARAH F. REZENDE
       * OBJETIVO: RECEBER E IMPRIMIR UMA STRING
       * DATA = 14/03/2023
-      ************************************
+      ******************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
