@@ -2,7 +2,7 @@
         PROGRAM-ID. PROGCOB01.
       ****************************************
       ** AUTOR = SARAH F. REZENDE
-      ** OBJETIVO: MOSTRAR A STRING Olá Mundo
+      ** OBJETIVO: MOSTRAR A STRING "Olá Mundo"
       ** DIA = 09/03/2023
       ****************************************
         ENVIRONMENT DIVISION.
