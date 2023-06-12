@@ -21,3 +21,8 @@ MATERIAL DE FIXAÇÃO DO CURSO DE COBOL NA ALURA:
 - Aprendi o uso do comando PERFORM para repetição de rotinas, parágrafos ou seções.
 - Estudei as diferenças entre os formatos de uso do PERFORM.
 - Realizei o reaproveitamento de código com o comando COPY.
+- Aprendi a construir telas para interação com usuario
+- Aprendi quais são os tipos de dados mais comuns manipulados em Cobol
+- Aprendi a manipular os dados pelo Cobol (inserir, excluir, alterar, consultar)
+- Evitei a gravação de dados duplicados
+- Aprendi a gerar relatórios em tela ou disco a partir de um arquivo de dados
