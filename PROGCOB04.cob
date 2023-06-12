@@ -1,7 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. PROGCOB04.
       ***************************************
-      ** AUTHOR = SARAH F. REZENDE
+      ** AUTHOR = SARAH 
       ** OBJETIVO: RECEBER NOME E SALÁRIO
       ** IMPRIMIR FORMATADO - USO DA VIRGULA
       ** DATA = 14/03/2023
